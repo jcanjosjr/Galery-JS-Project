@@ -1,4 +1,4 @@
-<h1 align="center">Galeria de Projetos com JavaScript, Bootstrap e WebPack .</h1>
+<h1 align="center">Galeria de Projetos com JavaScript, Bootstrap e WebPack</h1>
 <p align="center">:snowflake: Fazendo uma SPA com JavaScript, jQuery, WebPack e Bootstrap!</p>
 
 Uma SPA para consolidar conhecimentos adquiridos em jQuery, JS e Bootstrap, o projeto possui bastante jQuery, SCSS e utiliza o WebPack para facilitar o build do projeto, foi utilizado o asdf para navegar entre diferentes versões do Node para facilitar no desenvolvimento do projeto e na compilação dos arquivos.
